@@ -1,0 +1,9 @@
+version: "1.0"
+projectName: TestRuntimeMappingProject
+runtimes:
+- runtimeAlias: TestERTFlow_SK_1
+  assets:
+  - name: fld_111399110_stage00.projects.flc1da0d9d9c694205ab460eb4dd11c545.integrations:testwm
+    type: flow
+    stepId: /0
+    reference: fld_111399110_stage00.projects.flc1da0d9d9c694205ab460eb4dd11c545.WmPackageServiceProvider.project.testruntimemapping.integrations:testdaf
